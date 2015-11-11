@@ -11,5 +11,6 @@ Windows8.1
 Unity5.2.2
 で確認してます。
 
-
+## Author
+[primevision](https://github.com/primevision)
 
